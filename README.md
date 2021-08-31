@@ -1,2 +1,5 @@
-# first-time-31aug
-fintech class exercise 01
+# This is a test repository
+
+# this text is slightly smaller!
+
+learn something new everyday!
