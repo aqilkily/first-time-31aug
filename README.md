@@ -4,6 +4,6 @@
 
 learn something new everyday!
 
-*Making a list right now!
+* Making a list right now!
 
-*Making another one!
+* Making another one!
